@@ -1,5 +1,7 @@
 <h1>Barbearia serviços</h1>
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/96901986/152276594-c630cd97-6404-4cc5-91f6-78616da2271f.gif)
+
 
 > <p>Link do site para a visualização - <a href="https://barbearia-gustaveiraeronaldeira.netlify.app/"_blank">Barbearia Gustaveira e Ronaldeira</a>
 
